@@ -2,7 +2,7 @@
 - (Life is once live your life as you imagine🌸)
 - 👀 Pursuing B.Tech Artificial intelligence  and data science at Bannari Amman Institute of Technology 
 - 🌱 I’m currently learning on building projects related to AI.
-- 📫 How to reach me poojicj@gmail.com
+- 📫 How to reach me poojitha.ad21@bitsathy.ac.in
 
 <!---
 POOJITHA29CJ/POOJITHA29CJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
