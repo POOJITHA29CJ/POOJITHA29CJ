@@ -27,7 +27,7 @@ Always learning, experimenting, and contributing to projects that make an impact
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-m-m-319333269//)  
 
 ---
 ✨ *Thanks for visiting my profile!*  
