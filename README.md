@@ -18,11 +18,19 @@ Always learning, experimenting, and contributing to projects that make an impact
 ![Poojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=POOJITHA29CJ&show_icons=true&theme=radical)  
 
 ---
+### 📍 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Poojitha46?theme=dark&font=Source%20Code%20Pro&ext=heatmap)  
+
+###  GeeksforGeeks Stats (as of now)
+- **Coding Score:** 199  
+- **Problems Solved:** 201  
+- **Profile:** [poojithaad21 on GFG](https://www.geeksforgeeks.org/user/poojithaad21/)
+
 
 ## 🌱 What I’m focusing on
 - Exploring **AI & LLMs**  
 - Improving my **Python projects**  
-- Learning more about **open-source contributions**  
+- Exploring machine learning models  
 
 ---
 
