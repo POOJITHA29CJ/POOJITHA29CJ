@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Poojitha  
 
-<!--
-**POOJITHA29CJ/POOJITHA29CJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer | Python Enthusiast | LLM Explorer**  
 
-Here are some ideas to get you started:
+I’m passionate about building with **Python** and diving into the world of **Large Language Models (LLMs)**.  
+Always learning, experimenting, and contributing to projects that make an impact. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech & Tools
+- 🐍 Python  
+- 🤖 Large Language Models (LLMs)  
+- 🛠️ Git, GitHub, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![Poojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=POOJITHA29CJ&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 What I’m focusing on
+- Exploring **AI & LLMs**  
+- Improving my **Python projects**  
+- Learning more about **open-source contributions**  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)  
+
+---
+✨ *Thanks for visiting my profile!*  
